@@ -7,5 +7,7 @@ Reason for missing code documentation mark: Lack of docstring on Q5 Blotris clas
 ## Code Style and Quality
 
 ![code_style_comments_feedback.png](code_style_comments_feedback.png)
+
 ![code_style_quality_feedback.png](code_style_quality_feedback.png)
+
 ![code_style_style_feedback.png](code_style_style_feedback.png)
