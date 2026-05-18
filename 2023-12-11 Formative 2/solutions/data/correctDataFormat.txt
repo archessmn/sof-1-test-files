@@ -1,0 +1,5 @@
+#ATHLETE,200m,110m,800m
+Louise HAZEL, 24.48, 13.48, 138.78
+Jessica ENNIS-HILL, 22.83, 12.54, 128.65
+Ivona DADIC, 24.29, 14.58, 135.9
+# Other athletes omitted

@@ -1,0 +1,1 @@
+This folder contains all of the stupidly minified solutions I wrote to the mock, a perfect example of "working but almost unreadable code" according to the lecturer. These solutions will not help you learn and will probably get flagged for plagiarism, they are simply for fun.
